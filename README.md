@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <head>
 <meta charset="gbk">
@@ -7,7 +7,6 @@
 <meta name="description" content="青鱼视频（net.avtiaozhuan.com）最新发布地址,老司机永不迷路！青鱼视频每日定时更新,日韩,英美,国产,主播视频,国产偷拍自拍视频等成人视频精品资源！" />
 <link href="/css/css.css" rel="stylesheet" type="text/css">
 </head>
-
 <body>
 <!-- 头部内容开始 -->
 <table border="0" width="100%" id="table11139" style="border-collapse: collapse" cellpadding="0">
@@ -22,7 +21,6 @@
   <div class="permalink">网友请收藏青鱼站永久地址发布页<a href="/">net.avtiaozhuan.com</a>&nbsp;&nbsp;&nbsp;以便随时可以获得青鱼站最新地址</div>
 </div>
 <!-- 头部内容结束 -->
-
 <!-- 主体内容开始 -->
 <div class="mainbox">
 <div class="main">
@@ -52,7 +50,7 @@
 </div>
 </div>
 <div class="foot">
-<div class="statement"><p>&#169; 2019 net.avtiaozhuan.com青鱼视频网址导航</p></div>
+<div class="statement"><p>&#169; 2020 net.avtiaozhuan.com青鱼视频网址导航</p></div>
 </div>
 <!-- 页脚结束 -->
 </body>
