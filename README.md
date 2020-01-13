@@ -1,7 +1,4 @@
 
-<html>
-<head>
-<meta charset="gbk">
 <title>青鱼视频_最新地址导航发布页 - net.avtiaozhuan.com</title>
 <meta name="keywords" content="青鱼最新地址" />
 <meta name="description" content="青鱼视频（net.avtiaozhuan.com）最新发布地址,老司机永不迷路！青鱼视频每日定时更新,日韩,英美,国产,主播视频,国产偷拍自拍视频等成人视频精品资源！" />
